@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>交互式可视化数据故事网站搭建</h1>
-  <p>Interactive_Visualization_DataStory_web</p >
-</div>
-
 
 ## 项目名称：探讨受教育程度和生育率的关系程度
 
